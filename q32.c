@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	int n = 121;
+	int n = 123;
 	scanf("%d", &n);
 
 	int original = n;
